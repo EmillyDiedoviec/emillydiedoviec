@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="./images/waving.gif">, I'm Emilly</h1>
-<h4 align="center">a Web Fullstack student, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
-</div>
+<h4 align="center">a Web Fullstack student ;)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
