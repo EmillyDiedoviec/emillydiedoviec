@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
-📕- School: I am an Web Fullstack student at Growdev. And finishing High School this year at Israelita Brasileiro.
+📕- School: I am an Web Fullstack student at Growdev. And finishing High School this year at Israelita Brasileiro School.
 <p align="center">
 💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch videos or movies/series.
 </p>
