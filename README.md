@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 <h4 align="center">a Web Fullstack student ;)
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="./images/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 -----
+
+## Know me 👇
+
 <details>
   <summary>☎️ contact me</summary>
 <div>
