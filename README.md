@@ -23,7 +23,7 @@
 💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch videos or movies/series.
 </p>
 <p align="center">
-🤓- Learning: I'm currently learning HTML, CSS,   GitHub and Git.
+🤓- Learning: I'm currently learning React. I've already learned HTML, CSS, GitHub, Git and JS.
 </p>
 <p align="center">
 📚- Languages: My national language is Portuguese and I'm in upper intermediate level in english.
