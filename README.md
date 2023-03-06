@@ -13,6 +13,26 @@
 ## Know me 👇
 
 <details>
+<summary>🧮 about</summary>
+<div>
+<samp>
+<h2 align="center">About me</h2>
+ <p align="center">
+📕- School: I am an Web Fullstack student at Growdev. And finishing High School this year at Israelita Brasileiro School.
+<p align="center">
+💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch videos or movies/series.
+</p>
+<p align="center">
+🤓- Learning: I'm currently learning HTML, CSS,   GitHub and Git.
+</p>
+<p align="center">
+📚- Languages: My national language is Portuguese and I'm in upper intermediate level in english.
+</p>
+</samp>
+</div>
+</details>
+  
+<details>
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -33,26 +53,6 @@
       <br>
     </p>
   </samp>
-</div>
-</details>
-
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-📕- School: I am an Web Fullstack student at Growdev. And finishing High School this year at Israelita Brasileiro School.
-<p align="center">
-💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch videos or movies/series.
-</p>
-<p align="center">
-🤓- Learning: I'm currently learning HTML, CSS,   GitHub and Git.
-</p>
-<p align="center">
-📚- Languages: My national language is Portuguese and I'm upper intermediate level in english.
-</p>
-</samp>
 </div>
 </details>
 
