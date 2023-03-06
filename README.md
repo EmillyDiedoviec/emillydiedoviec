@@ -18,7 +18,7 @@
 <samp>
 <h2 align="center">About me</h2>
  <p align="center">
-📕- School: I am an Web Fullstack student at Growdev. And finishing High School this year at Israelita Brasileiro School.
+📕- School: I am an Web Fullstack student at Growdev.
 <p align="center">
 💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch videos or movies/series.
 </p>
