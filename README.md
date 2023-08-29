@@ -20,10 +20,10 @@
  <p align="center">
 📕- School: I am an Web Fullstack student at Growdev.
 <p align="center">
-💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch videos or movies/series.
+💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch a lot of videos or movies/series.
 </p>
 <p align="center">
-🤓- Learning: I'm currently learning React. I've already learned HTML, CSS, GitHub, Git and JS.
+🤓- Studies: I've already learned HTML, CSS, JavaScript, TypeScript, React, Java, GitHub and Git.
 </p>
 <p align="center">
 📚- Languages: My national language is Portuguese and I'm in upper intermediate level in english.
@@ -45,12 +45,6 @@
       <a href="mailto:emillydiedoviec@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/emilly_diedoviec" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
     </p>
   </samp>
 </div>
