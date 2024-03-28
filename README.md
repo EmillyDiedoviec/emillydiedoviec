@@ -18,7 +18,7 @@
 <samp>
 <h2 align="center">About me</h2>
  <p align="center">
-📕- Studies: I accomplished a fullstack course and now I'm taking computer science at college.
+📕- Studies: I accomplished a fullstack course and now I'm taking computer science classes at college.
 <p align="center">
 💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch a lot of videos or movies/series.
 </p>
