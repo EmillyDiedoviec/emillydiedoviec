@@ -18,12 +18,12 @@
 <samp>
 <h2 align="center">About me</h2>
  <p align="center">
-📕- School: I am an Web Fullstack student at Growdev.
+📕- Studies: I accomplished a fullstack course and now I'm taking computer science at college.
 <p align="center">
 💻- My hobbies: I love art, drawing, creating and crocheting. In my free time I watch a lot of videos or movies/series.
 </p>
 <p align="center">
-🤓- Studies: I've already learned HTML, CSS, JavaScript, TypeScript, React, Java, GitHub and Git.
+🤓- Studies: I've already learned HTML, CSS, JavaScript, TypeScript, React, Java, SQL, GitHub and Git.
 </p>
 <p align="center">
 📚- Languages: My national language is Portuguese and I'm in upper intermediate level in english.
